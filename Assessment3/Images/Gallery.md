@@ -1,7 +1,7 @@
-# Assessment 2 Supplementary Images
+# Assessment 3 Supplementary Images
 
 ![Main UML Diagram](uml.png)
 
 ![Main State Diagram](statemachine.png)
 
-![Gantt Chart](gantt.png)
+![Updated Gantt Chart](GanttChart.png)

@@ -91,7 +91,7 @@ The documentation frontend for our SEPR project, 2019.
 
 ### Images
 
-[Image Gallery]()
+[Image Gallery](Assessment3/Images/Gallery.md)
 
 ## Appendices [A]
 
