@@ -1,4 +1,4 @@
-Berbils Team Project Documentation
+Salt N Sepr's Team Project Documentation
 The documentation frontend for our SEPR project, 2019.
 
 ## Assessment 1
@@ -65,7 +65,7 @@ The documentation frontend for our SEPR project, 2019.
 
 [Requirements [3.1]](https://docs.google.com/document/d/1t6xCZatTLlr4ZU8MxJG6XdJEtNeEePV-NfB4DM93-Bs/edit?usp=sharing)
 
-[Method Selection and Planning Outline [3.2]]()
+[Method Selection and Planning Outline [3.2]](https://docs.google.com/document/d/1VL-0Xk6BTfDjAi8IQ1uWVYaUYZ2amGzYqBW3te7jSbA/edit?usp=sharing)
 
 [Risk Assessment [3.3]](https://docs.google.com/document/d/1IlLdsOsAQtfdjCzqAicF9ynLr4WzFib9yfjZ69gUoNA/edit?usp=sharing)
 
@@ -88,8 +88,6 @@ The documentation frontend for our SEPR project, 2019.
 [Game Executable]()
 
 [Java Docs]()
-
-[Demo]()
 
 ### Images
 
