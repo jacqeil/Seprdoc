@@ -69,25 +69,25 @@ The documentation frontend for our SEPR project, 2019.
 
 [Risk Assessment [3.3]](https://docs.google.com/document/d/1IlLdsOsAQtfdjCzqAicF9ynLr4WzFib9yfjZ69gUoNA/edit?usp=sharing)
 
-[Architecture [3.4]]()
+[Architecture [3.4]](https://docs.google.com/document/d/1OiKuGp8BzFo1NbBfiL_ur23RQW_rLsOSmgXcU15nvAc/edit?usp=sharing)
 
-[Implementation [3.5]]()
+[Implementation [3.5]](https://docs.google.com/document/d/12Gs3x7OVuC_H4DtmFswBE7T3HtdcqKwoRcNzOpQcXWY/edit?usp=sharing)
 
-[Testing [3.6]]()
+[Testing [3.6]](https://docs.google.com/document/d/1XNkiNCvF1Ndi4dViZ0VrfgmT3owtypJmzs4C9ZqH09M/edit?usp=sharing)
 
-[Change Report [3.7]]()
+[Change Report [3.7]](https://docs.google.com/document/d/1U5cCeO98YN9NUgI1KRQ4PQB3s2JmZ4uwEONZz_lt9ck/edit?usp=sharing)
 
 ### Supplementary
 
-[Traceability Matrix]()
+[Traceability Matrix](https://docs.google.com/spreadsheets/d/1NgCLFpJWfcCxK9hX6_iogMIGkny17T750M8Ubgd5Rvg/edit?usp=sharing)
 
-[Testing Design/Evidence]()
+[Testing Design/Evidence](https://docs.google.com/document/d/1_9JwZWnwdCR-DjSIVcCK_FvPKnDs0Iedo_-oWmJ3myk/edit?usp=sharing)
 
 [User Manual](https://docs.google.com/document/d/18e2vRWE3m-CHN3ibEiJ8uCtg2Hg7GX22J2H46trBszM/edit?usp=sharing)
 
 [Game Executable]()
 
-[Java Docs]()
+[Java Docs](https://salt-and-berbils.firebaseapp.com/)
 
 ### Images
 
